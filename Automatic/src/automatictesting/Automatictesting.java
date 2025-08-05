@@ -9,5 +9,6 @@ public class Automatictesting {
 		driver.get("https:testingbaba.com/old");
 		driver.manage().window().maximize();
 		System.out.println("Vivaronaldo");
+		System.out.println("HALAMADRID");
 }
 }
