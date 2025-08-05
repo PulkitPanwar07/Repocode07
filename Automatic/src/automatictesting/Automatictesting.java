@@ -8,5 +8,6 @@ public class Automatictesting {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https:testingbaba.com/old");
 		driver.manage().window().maximize();
+		System.out.println("Vivaronaldo");
 }
 }
